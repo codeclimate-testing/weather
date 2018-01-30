@@ -1,1 +1,1 @@
-web: ./weather
+web: weather
